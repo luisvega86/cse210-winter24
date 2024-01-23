@@ -1,0 +1,12 @@
+[
+  {
+    "prompt": "What was the best part of my day?",
+    "response": "The best part of my day was playing with my daughters and see them smiling and hear ther giggles.",
+    "date": "2024-01-23T19:11:35.3008436-03:00"
+  },
+  {
+    "prompt": "What is one thing I\u0027m grateful for today?",
+    "response": "I\u0027m grateful for life, for my family and for the oportunity of working from home.",
+    "date": "2024-01-23T19:12:19.9012887-03:00"
+  }
+]
